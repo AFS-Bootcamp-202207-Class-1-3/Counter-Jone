@@ -1,0 +1,13 @@
+.counter {
+}
+
+.counter- > button {
+  display: inline-block;
+  width: 76px;
+  height: 76px;
+  color: #ccc;
+  border: 2px dashed;
+  transition: color 0.25s;
+  position: relative;
+  overflow: hidden;
+}

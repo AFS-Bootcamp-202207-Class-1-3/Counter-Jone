@@ -1,10 +1,10 @@
 import "./App.css";
-import Counter from "./component/Counter";
+import MultipleCounter from "./component/multipleCounter";
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <MultipleCounter />
     </div>
   );
 }
